@@ -1,6 +1,6 @@
-ROCK = 'r'
-PAPER = 'p'
-SCISSORS = 's'
+ROCK = 'rock'
+PAPER = 'paper'
+SCISSORS = 'scissors'
 
 class Player:
-    pass
+
